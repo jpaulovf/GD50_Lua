@@ -1,0 +1,4 @@
+# Do not track these folders
+
+.vscode/ipch/*
+.vscode/*
